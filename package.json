@@ -1,0 +1,32 @@
+{
+  "name": "fullstack_react_postgresql",
+  "version": "1.0.0",
+  "description": "react and postgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaiCyclone/fullstack_react_postgreSql.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Jay Jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaiCyclone/fullstack_react_postgreSql/issues"
+  },
+  "homepage": "https://github.com/MaiCyclone/fullstack_react_postgreSql#readme",
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "pg": "^7.9.0",
+    "pi": "^2.0.3"
+  }
+}
