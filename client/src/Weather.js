@@ -23,7 +23,7 @@ const Weather = props => {
             </tr>
             <tr>
               <td>Pressure</td>
-              <td>{data.main.pressur}hPa</td>
+              <td>{data.main.pressure}hPa</td>
             </tr>
             <tr>
               <td>Humidity</td>
